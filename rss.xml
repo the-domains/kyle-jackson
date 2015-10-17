@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kyle Jackson]]></title>
+        <description><![CDATA[Kyle Jackson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Oct 2015 02:08:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where do we begin??]]></title>
+            <description><![CDATA[<article><h1>Where do we begin??</h1><img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1014205_10151559689997934_179175344_n.jpg?oh=f02f4372bbcd5987711ab66f97bd86c9&oe=56D01195"></article>]]></description>
+            <link>https://scontent-lax3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1014205_10151559689997934_179175344_n.jpg?oh=f02f4372bbcd5987711ab66f97bd86c9&amp;oe=56D01195</link>
+            <guid isPermaLink="false">3a71cd9f-bf6c-490a-bfca-349f5e443d30</guid>
+            <pubDate>Sat, 17 Oct 2015 02:08:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
