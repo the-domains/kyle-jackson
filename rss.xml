@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kyle Jackson]]></title>
+        <description><![CDATA[Kyle Jackson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Oct 2015 00:34:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blast...]]></title>
+            <description><![CDATA[<article><h1>Blast...</h1><p>At Least 26 Dead After Explosion Rocks Romanian Nightclub - BuzzFeed News</p><img src="http://s3-static-ak.buzzfed.com/static/2015-10/30/19/campaign_images/webdr04/at-least-26-reported-dead-after-explosion-rocks-r-2-25384-1446246488-6_dblbig.jpg"></article>]]></description>
+            <link>undefinedblast/index.html</link>
+            <guid isPermaLink="false">457d6682-fd32-4cd6-a76f-dd23c5358f26</guid>
+            <pubDate>Sat, 31 Oct 2015 00:34:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
