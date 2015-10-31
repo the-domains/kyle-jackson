@@ -1,29 +1,41 @@
-name: Kyle Jackson
-favicon: null
-layout_spectrum: 0.27287
-typography_spectrum: 0.36745
 title: Kyle Jackson
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.75
+  lightness: 1
+  brandStrength: 0.5537057
+  brandColors:
+    - '#181715'
+    - '#FFFFFF'
+    - '#5C2726'
+    - '#5C6565'
+    - '#D7A36E'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Kyle Jackson
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#958d83'
-    - '#d0c4b9'
-    - '#534837'
-  brandStrength: 0.8621261736843735
-  lightness: 1
-  saturation: 0.75
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.36745
+layout_spectrum: 0.27287
