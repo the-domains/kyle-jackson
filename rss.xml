@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kyle Jackson]]></title>
         <description><![CDATA[Kyle Jackson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kyle-jackson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 18:30:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 18:31:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kyle-jackson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Virtual Reality Renaissance: How Learning in VR Will Inspire Action Like Never Before - Singularity HUB]]></title>
+            <description><![CDATA[<article><h1>The Virtual Reality Renaissance: How Learning in VR Will Inspire Action Like Never Before - Singularity HUB</h1><p>6,287 5 Humanity is standing on a precipice. We have never been closer to achieving a world where everyone has the ability to live and thrive. Biotech, nanotech and AI promise to reshape the world and have the potential to imbue humanity with near-godlike powers.</p><img src="http://singularityhub.com/wp-content/uploads/2015/11/shutterstock_325963619.jpg"></article>]]></description>
+            <link>http://singularityhub.com/2015/11/05/the-virtual-reality-renaissance-how-learning-in-vr-will-inspire-action-like-never-before/</link>
+            <guid isPermaLink="false">2516b968-3fb6-4a20-bf0c-a47d345dd82c</guid>
+            <pubDate>Mon, 30 Nov 2015 18:31:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I've Seen the Future - and It's Incredible]]></title>
             <description><![CDATA[<article><h1>I've Seen the Future - and It's Incredible</h1><p>The Dimension One experience is only 5 mins long and starts with stepping through a portal into an Aztec- like temple and ends with fleeing from a perilously dangerous room, and being sucked (depressingly) back into reality.</p><img src="https://cdn-images-1.medium.com/max/800/0*kU1r6vrCozjEPuBY.jpg"></article>]]></description>
