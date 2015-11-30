@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kyle Jackson]]></title>
+        <description><![CDATA[Kyle Jackson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 18:30:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I've Seen the Future - and It's Incredible]]></title>
+            <description><![CDATA[<article><h1>I've Seen the Future - and It's Incredible</h1><p>The Dimension One experience is only 5 mins long and starts with stepping through a portal into an Aztec- like temple and ends with fleeing from a perilously dangerous room, and being sucked (depressingly) back into reality.</p><img src="https://cdn-images-1.medium.com/max/800/0*kU1r6vrCozjEPuBY.jpg"></article>]]></description>
+            <link>https://medium.com/@rossmcgarvey/i-ve-seen-the-future-and-it-s-incredible-40a4d28915d8#.2dsg0ld2g</link>
+            <guid isPermaLink="false">24fc67db-879b-45ee-8d7d-b610e06a71c6</guid>
+            <pubDate>Mon, 30 Nov 2015 18:30:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
