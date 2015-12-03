@@ -36,8 +36,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.jte1etlqj'
 title: From product design to virtual reality - Google Design
-datePublished: '2015-12-01T06:17:10.972Z'
-dateModified: '2015-12-01T06:15:58.410Z'
+datePublished: '2015-12-03T02:25:29.236Z'
+dateModified: '2015-12-01T06:17:10.972Z'
 sourcePath: _posts/2015-12-01-from-product-design-to-virtual-reality-google-design.md
 published: true
 inFeed: true
