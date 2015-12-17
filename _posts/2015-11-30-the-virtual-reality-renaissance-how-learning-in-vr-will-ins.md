@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://singularityhub.com/2015/11/05/the-virtual-reality-renaissance-how-learning-in-vr-will-inspire-action-like-never-before/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - virtual
   - reality
@@ -17,8 +17,8 @@ keywords:
   - classrooms
   - experience
 description: '6,287 5 Humanity is standing on a precipice. We have never been closer to achieving a world where everyone has the ability to live and thrive. Biotech, nanotech and AI promise to reshape the world and have the potential to imbue humanity with near-godlike powers.'
-datePublished: '2015-11-30T18:31:09.279Z'
-dateModified: '2015-11-30T18:30:59.516Z'
+datePublished: '2015-12-17T06:21:12.144Z'
+dateModified: '2015-12-01T06:09:01.453Z'
 author:
   - name: Jason Ganz
     url: 'http://singularityhub.com/author/jganz/'
