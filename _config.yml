@@ -1,7 +1,7 @@
 name: Kyle Jackson
 favicon: null
-layout_spectrum: 0.50606
-typography_spectrum: 0.61462
+layout_spectrum: 0
+typography_spectrum: 0.57541
 title: Kyle Jackson
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#010101'
     - '#26271f'
     - '#355969'
-  brandStrength: 0.8125
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
