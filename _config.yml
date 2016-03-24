@@ -1,5 +1,8 @@
+name: Kyle Jackson
+favicon: null
+layout_spectrum: 0.75511
+typography_spectrum: 0.74211
 title: Kyle Jackson
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#BED8E9'
     - '#2F2827'
     - '#646366'
     - '#FBC4A4'
     - '#E9384C'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Kyle Jackson
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.7094522
-layout_spectrum: 0.7051557
+purpose: []
