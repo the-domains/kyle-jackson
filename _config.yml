@@ -34,7 +34,7 @@ color:
     - '#646366'
     - '#FBC4A4'
     - '#E9384C'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.5
