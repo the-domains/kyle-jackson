@@ -28,6 +28,9 @@ navigation:
   - name: Mixed Reality
     id: c7772ded-31ae-4572-84e4-4b4af81d9d62
     type: content
+  - name: Virtual Reality
+    id: 2516b968-3fb6-4a20-bf0c-a47d345dd82c
+    type: content
 favicon: null
 collections:
   - index:
