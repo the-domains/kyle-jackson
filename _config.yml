@@ -1,5 +1,34 @@
-title: Kyle Jackson
-purpose: []
+typography_spectrum: 0.8547480790875852
+color:
+  saturation: 0.29885248141363263
+  brandStrength: 0.934993629110977
+  lightness: 0.9660046698991209
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  rhythmicContrast: 0.4119838650804013
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14176783268339932
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Kyle Jackson
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Mixed Reality
+    id: c7772ded-31ae-4572-84e4-4b4af81d9d62
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.29885248141363263
-  brandStrength: 0.934993629110977
-  lightness: 0.9660046698991209
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.4119838650804013
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Kyle Jackson
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8547480790875852
-layout_spectrum: 0.14176783268339932
+title: Kyle Jackson
+purpose: []
