@@ -31,6 +31,9 @@ navigation:
   - name: Virtual Reality
     id: 2516b968-3fb6-4a20-bf0c-a47d345dd82c
     type: content
+  - name: Talespin
+    url: www.talespin.company
+    type: external
 favicon: null
 collections:
   - index:
