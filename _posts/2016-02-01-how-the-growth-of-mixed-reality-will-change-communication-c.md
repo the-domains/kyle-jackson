@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Pete Sena
-    url: 'http://techcrunch.com/contributor/pete-sena/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://techcrunch.com'
-  name: TechCrunch
-  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
-  domain: techcrunch.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - reality
   - communication
@@ -20,18 +14,33 @@ keywords:
   - experiences
   - learners
   - headset
-description: 'Sci-fi tech, meet Wall Street. A recent report from investment bank Goldman Sachs predicted that within 10 years, virtual reality hardware will be an $80 billion industry.'
-inLanguage: en
+description: >-
+  Sci-fi tech, meet Wall Street. A recent report from investment bank Goldman
+  Sachs predicted that within 10 years, virtual reality hardware will be an $80
+  billion industry.
+datePublished: '2016-08-26T16:37:50.574Z'
+dateModified: '2016-08-26T16:37:50.259Z'
+author:
+  - name: Pete Sena
+    url: 'http://techcrunch.com/contributor/pete-sena/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://techcrunch.com/2016/01/30/how-the-growth-of-mixed-reality-will-change-communication-collaboration-and-the-future-of-the-workplace/'
-title: 'How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace'
-datePublished: '2016-02-01T05:31:29.106Z'
-dateModified: '2016-02-01T05:31:01.555Z'
-sourcePath: _posts/2016-02-01-how-the-growth-of-mixed-reality-will-change-communication-c.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+title: >-
+  How The Growth Of Mixed Reality Will Change Communication, Collaboration And
+  The Future Of The Workplace
+sourcePath: >-
+  _posts/2016-02-01-how-the-growth-of-mixed-reality-will-change-communication-c.md
+authors: []
+publisher:
+  name: TechCrunch
+  domain: techcrunch.com
+  url: 'http://techcrunch.com'
+  favicon: >-
+    https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico
+via: {}
+starred: true
+url: how-the-growth-of-mixed-reality-will-change-communication-c/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
